@@ -1,3 +1,5 @@
+#Written by Peter Akdemir and Ryan McCusker
+
 import javafx.application.Application;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
