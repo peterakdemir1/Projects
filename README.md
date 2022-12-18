@@ -1,5 +1,4 @@
-# Projects
-My personal projects
+# Dropshipping Website
 
 the premise of this project was to find 25 different but comparable products on 2 online vendors and use the data from their web pages to create a mock dropshipping website. i chose 2 vendors that sell equipment for competitive swimming. a breakdown of the files is as follows:
  - the 2 _html directories contain backups of all the HTML files that were being used for this project
