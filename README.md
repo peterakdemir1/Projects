@@ -1,2 +1,3 @@
-# Projects
-This is where I keep my record of projects. You can take a look at the various branches if you're interested!
+# Speech Recognizer
+
+This project came to me pretty spontanteously. The main goal was to be able to create an Amazon Echo/Google Home type of smart speaker or code that uses ChatGPT as the "smart" part. After doing the hard part, I realized that OpenAI doesn't have ChatGPT in its API so my true goal is not complete yet. As of now, I have a Python code that uses the SpeechRecognition, PyAudio, and sounddevice packages to detect the input device, record an audio clip for the specified number of seconds, and recognize what words are being said. This could be used for other parts of OpenAI's API so it will be fun to see what I can do with this. 
